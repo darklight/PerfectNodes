@@ -1,4 +1,4 @@
-DL-SkillProfiles
+PerfectNode
 ================
 
-Skill profiles to be used with https://github.com/MMOMinion/FFXIVMinion
+A Custom Module to be used with https://github.com/MMOMinion/FFXIVMinion
