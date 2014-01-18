@@ -1,0 +1,6 @@
+[Module]
+Name=PN_Equips
+Version=0.01
+Files=PN_Equips.lua
+Enabled=1
+Dependencies=minionlib
